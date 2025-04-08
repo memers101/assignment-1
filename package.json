@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "CS 362 Assignment 1 step 3 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "regular test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "assignment-1"
+  },
+  "keywords": [
+    "step",
+    "3"
+  ],
+  "author": "Marshall Arnold",
+  "license": "ISC"
+}
